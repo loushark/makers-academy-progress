@@ -5,11 +5,13 @@
 - Follow an effective debugging process
 - Describe some basic OO principles like encapsulation, SRP
 
+
+
 #### Challenges
 
 | challenge                            | Evidence                                        |
 | -------------------------------------|-------------------------------------------------|
-| Daily pairing challenge: Boris bikes | https://github.com/loushark/Boris_bikes      |
-| Weekend challenge: Airport           | https://github.com/loushark/airport_challenge  |
+| Daily pairing challenge: Boris bikes | https://github.com/loushark/oystercard          |
+| Weekend challenge:                   |                                                 |
 
 
