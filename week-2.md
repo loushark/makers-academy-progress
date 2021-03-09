@@ -1,4 +1,4 @@
-#### Week 1 learning goals:
+#### Week 2 learning goals:
 
 - Use all of week 1's skills (don't underestimate the importance of this)
 - Break one class into two classes that work together, while maintaining test coverage
