@@ -11,5 +11,5 @@
 
 | challenge                            | Evidence                                        |
 | -------------------------------------|-------------------------------------------------|
-| Daily pairing challenge: Oyster Card |                                                 |
-| Weekend challenge:                   |  https://github.com/loushark/oystercard         |
+| Daily pairing challenge: Oyster Card |  https://github.com/loushark/oystercard                                            |
+| Weekend challenge:                   |  TBC       |
