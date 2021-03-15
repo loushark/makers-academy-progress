@@ -9,7 +9,18 @@
 
 #### Challenges
 
-| challenge                            | Evidence                                        |
-| -------------------------------------|-------------------------------------------------|
-| Daily pairing challenge: Oyster Card |  https://github.com/loushark/oystercard                                            |
-| Weekend challenge:                   |  TBC       |
+| challenge                             | Evidence                                        |
+| --------------------------------------|-------------------------------------------------|
+| Daily pairing challenge: Oyster Card  |  https://github.com/loushark/oystercard         |
+| Weekend challenge: Takeaway challenge |  https://github.com/loushark/takeaway-challenge |
+
+
+#### Takeaway challenge:
+
+https://github.com/loushark/takeaway-challenge  
+
+The takeaway challenge uses:
+- Ruby and Rspec
+- Mocking with doubles
+- Use of the Twilio API
+- Setting environment variables with dotenv gem
