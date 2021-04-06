@@ -18,4 +18,4 @@
 
 ##### Rock, Paper, Scissors, Lizard, Spock
 
-![RPSLS](RPSLS.mv)
+![rpsls](RPSLS_1.png)
