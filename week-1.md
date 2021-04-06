@@ -12,6 +12,8 @@
 | challenge                            | Evidence                                        |
 | -------------------------------------|-------------------------------------------------|
 | Daily pairing challenge: Boris bikes | https://github.com/loushark/oystercard          |
-| Weekend challenge:                   |                                                 |
+| Weekend challenge:                   | https://github.com/loushark/airport_challenge   |
+
+--
 
 
