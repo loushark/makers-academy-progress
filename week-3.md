@@ -9,9 +9,13 @@
 
 #### Challenges
 
-| challenge                            | Evidence                                        |
-| -------------------------------------|-------------------------------------------------|
-| Daily pairing challenge: Battle      | TBD                                             |
-| Weekend challenge:                   | TBD                                             |
+| challenge                                               | Evidence                                        |
+| --------------------------------------------------------|-------------------------------------------------|
+| Daily pairing challenge: Battle                         | https://github.com/loushark/battle              |
+| Weekend challenge: Rock, Paper, Scissors, Lizard, Spock | https://github.com/loushark/rps-challenge       |
 
 
+
+##### Rock, Paper, Scissors, Lizard, Spock
+
+![RPSLS](RPSLS.mv)
