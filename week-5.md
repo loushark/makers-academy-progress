@@ -1,7 +1,7 @@
 #### Week 5 learning goals:
 
 - Break down projects into tasks and allocate them to pairs  
-- Build to a specificiation (rather than challenges)  
+- Build to a specification (rather than challenges)  
 - Run stand-ups and retrospectives  
 - Use a branch/PR/merge git workflow  
 - Give and receive meaningful code review  
@@ -15,14 +15,14 @@
 | Daily team challenge:                | https://github.com/TataSher/makershnd                         |
 | Weekend challenge:                   | https://github.com/loushark/bowling-challenge-ruby            |
 
----- 
+----
 
 
 ### Team project: Makers BnB  
 
 #### Team name: Makers HnD (Hammocks N Drinks)
 
-Objectives: 
+Objectives:
 - make a minimum viable product (MVP)  
 - Turning a specification into user stories
 
@@ -36,5 +36,3 @@ Objectives:
 - Until a user has confirmed a booking request, that space can still be booked for that night.  
 
 ![trello planning](MakersHnD trello planning.png)  
-
-
