@@ -1,7 +1,7 @@
 # makers-academy-progress (づ｡◕‿‿◕｡)づ
 Logging weekly learning goals and evidence from my journey at Makers Academy  
 
-![makers](Makers-1.png)
+![makers](images/Makers-1.png)
 
 #### Week 1 (TDD, debugging, OOP, pairing)
 https://github.com/loushark/makers-academy-progress/blob/main/week-1.md  
